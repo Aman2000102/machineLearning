@@ -5,4 +5,9 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 
 #Exploratory Data Analysis
 
-##Algorithms
+## Algorithms
+
+# Logistic Regression
+# Decision Tree
+# Random Forest
+# Support Vector Classifier
